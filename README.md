@@ -4,3 +4,4 @@ Only Duplicates
 Array diff
 Find The Duplicated
 Tribonacci Sequence
+Counting Duplicates
