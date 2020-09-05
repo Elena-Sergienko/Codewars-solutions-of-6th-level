@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="Add Counting Duplicates">
+      <change afterPath="$PROJECT_DIR$/Multiples of 3 and 5 redux.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fTp8SObLtgLhsiYbxtq8CEwZv7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProjectsREACT\Codewars-solutions-of-6th-level" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="" />
+      <created>1596251776441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596251776441</updated>
+      <workItem from="1596251777466" duration="4171000" />
+      <workItem from="1596260244666" duration="154000" />
+      <workItem from="1596345452958" duration="295000" />
+      <workItem from="1596433922802" duration="257000" />
+      <workItem from="1596503090463" duration="18000" />
+      <workItem from="1596697670846" duration="515000" />
+      <workItem from="1596783773876" duration="190000" />
+      <workItem from="1599263853108" duration="146000" />
+    </task>
+    <task id="LOCAL-00001" summary="Array.diff">
+      <created>1596253385482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596253385482</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Find The Duplicated Number in a Consecutive Unsorted List - Tougher Version">
+      <created>1596345606703</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596345606703</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Find The Duplicated Number in a Consecutive Unsorted List - Tougher Version Tribonacci Sequence">
+      <created>1596434052253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596434052253</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add Find the odd int">
+      <created>1596697756852</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596697756852</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Unique In Order">
+      <created>1596783880906</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596783880906</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Counting Duplicates">
+      <created>1596958313165</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596958313165</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Array.diff" />
+    <MESSAGE value="Find The Duplicated Number in a Consecutive Unsorted List - Tougher Version" />
+    <MESSAGE value="Find The Duplicated Number in a Consecutive Unsorted List - Tougher Version Tribonacci Sequence" />
+    <MESSAGE value="Add Find the odd int" />
+    <MESSAGE value="Add Unique In Order" />
+    <MESSAGE value="Add Counting Duplicates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Counting Duplicates" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="401" height="442" key="Diff.GoToChangePopup" timestamp="1596253637618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="401" height="442" key="Diff.GoToChangePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1596253637618" />
+    <state x="995" y="313" width="786" height="580" key="DiffContextDialog" timestamp="1596253699670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="995" y="313" width="786" height="580" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596253699670" />
+    <state x="1123" y="236" key="FileChooserDialogImpl" timestamp="1596260396759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1123" y="236" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596260396759" />
+    <state x="312" y="466" key="Github.ShareDialog" timestamp="1596251968590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="466" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596251968590" />
+    <state x="287" y="273" key="Github.UntrackedFilesDialog" timestamp="1596251999742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="287" y="273" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596251999742" />
+    <state x="935" y="214" key="Vcs.Push.Dialog.v2" timestamp="1596958325485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="935" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596958325485" />
+    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596253920720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596253920720" />
+    <state x="1111" y="418" key="git4idea.pull.GitPullDialog" timestamp="1596255876767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1111" y="418" key="git4idea.pull.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596255876767" />
+  </component>
+</project>
