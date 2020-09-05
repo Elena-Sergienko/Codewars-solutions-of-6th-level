@@ -1,6 +1,7 @@
 # Codewars-solutions-of-6th-level
-
-Only Duplicates
+Solutions:
 Array diff
+Counting Duplicates
 Find The Duplicated
+Only Duplicates
 Tribonacci Sequence
