@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="Add Counting Duplicates">
-      <change afterPath="$PROJECT_DIR$/Multiples of 3 and 5 redux.js" afterDir="false" />
+    <list default="true" id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="Add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unique In Order.js" beforeDir="false" afterPath="$PROJECT_DIR$/Unique In Order.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,8 @@
       <workItem from="1596503090463" duration="18000" />
       <workItem from="1596697670846" duration="515000" />
       <workItem from="1596783773876" duration="190000" />
-      <workItem from="1599263853108" duration="146000" />
+      <workItem from="1599263853108" duration="1228000" />
+      <workItem from="1599621538014" duration="104000" />
     </task>
     <task id="LOCAL-00001" summary="Array.diff">
       <created>1596253385482</created>
@@ -122,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596958313165</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Multiples of 3 and 5 redux">
+      <created>1599264029499</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599264029499</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add">
+      <created>1599264062128</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599264062128</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +163,9 @@
     <MESSAGE value="Add Find the odd int" />
     <MESSAGE value="Add Unique In Order" />
     <MESSAGE value="Add Counting Duplicates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Counting Duplicates" />
+    <MESSAGE value="Add Multiples of 3 and 5 redux" />
+    <MESSAGE value="Add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add" />
   </component>
   <component name="WindowStateProjectService">
     <state width="401" height="442" key="Diff.GoToChangePopup" timestamp="1596253637618">
@@ -170,10 +188,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="287" y="273" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596251999742" />
-    <state x="935" y="214" key="Vcs.Push.Dialog.v2" timestamp="1596958325485">
+    <state x="935" y="214" key="Vcs.Push.Dialog.v2" timestamp="1599264079922">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="935" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596958325485" />
+    <state x="935" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599264079922" />
     <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596253920720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
