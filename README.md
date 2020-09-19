@@ -1,3 +1,6 @@
+![codewars](https://user-images.githubusercontent.com/68942106/93658163-f4550780-f9ed-11ea-96b6-c7cf7910de62.png)
+
+
 # Codewars-solutions-of-6th-level
 ## Solutions:
 ## Array diff
