@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="Add solution-2 (Unique In Order.js)">
-      <change afterPath="$PROJECT_DIR$/Sum of Digits.js" afterDir="false" />
+    <list default="true" id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="Add Sum of Digits / Digital Root">
+      <change afterPath="$PROJECT_DIR$/Playing with digits.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,9 @@
       <workItem from="1596783773876" duration="190000" />
       <workItem from="1599263853108" duration="1228000" />
       <workItem from="1599621538014" duration="1414000" />
-      <workItem from="1599936320540" duration="110000" />
+      <workItem from="1599936320540" duration="919000" />
+      <workItem from="1600582480415" duration="713000" />
+      <workItem from="1601270809081" duration="53000" />
     </task>
     <task id="LOCAL-00001" summary="Array.diff">
       <created>1596253385482</created>
@@ -146,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599621713188</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add solution-2 (Unique In Order.js)">
+      <created>1599936491063</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599936491063</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add Sum of Digits / Digital Root">
+      <created>1599936869154</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1599936869154</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +190,8 @@
     <MESSAGE value="Add Multiples of 3 and 5 redux" />
     <MESSAGE value="Add" />
     <MESSAGE value="Add solution-2 (Unique In Order.js)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution-2 (Unique In Order.js)" />
+    <MESSAGE value="Add Sum of Digits / Digital Root" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Sum of Digits / Digital Root" />
   </component>
   <component name="WindowStateProjectService">
     <state width="401" height="442" key="Diff.GoToChangePopup" timestamp="1596253637618">
@@ -197,14 +214,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="287" y="273" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596251999742" />
-    <state x="935" y="214" key="Vcs.Push.Dialog.v2" timestamp="1599621740786">
+    <state x="184" y="86" key="MergeDialog" timestamp="1599936679359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="935" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599621740786" />
-    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596253920720">
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599936679359" />
+    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1599936679364">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596253920720" />
+    <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599936679364" />
+    <state x="935" y="214" key="Vcs.Push.Dialog.v2" timestamp="1599936884118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="935" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599936884118" />
+    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600584623047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600584623047" />
     <state x="1111" y="418" key="git4idea.pull.GitPullDialog" timestamp="1596255876767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
