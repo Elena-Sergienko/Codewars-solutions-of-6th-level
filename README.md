@@ -10,6 +10,7 @@
 ## Find the odd int
 ## Multiples of 3 and 5 redux
 ## Only Duplicates
+## Playing with digits
 ## Sum of Digits / Digital Root
 ## Tribonacci Sequence
 ## Unique In Order
