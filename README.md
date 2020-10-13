@@ -13,5 +13,6 @@
 ## Only Duplicates
 ## Playing with digits
 ## Sum of Digits / Digital Root
+## The Vowel Code
 ## Tribonacci Sequence
 ## Unique In Order
