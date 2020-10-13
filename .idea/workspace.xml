@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="Updated Playing with digits">
+    <list default="true" id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="Add: Are we alternate.js">
+      <change afterPath="$PROJECT_DIR$/The Vowel Code.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +36,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fTp8SObLtgLhsiYbxtq8CEwZv7" />
@@ -83,6 +89,7 @@
       <workItem from="1599936320540" duration="919000" />
       <workItem from="1600582480415" duration="713000" />
       <workItem from="1601270809081" duration="1144000" />
+      <workItem from="1602567136924" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="Array.diff">
       <created>1596253385482</created>
