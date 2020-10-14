@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="Add: Are we alternate.js">
-      <change afterPath="$PROJECT_DIR$/The Vowel Code.js" afterDir="false" />
+    <list default="true" id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="Add: The Vowel Code.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -213,7 +212,8 @@
     <MESSAGE value="Add Sum of Digits / Digital Root" />
     <MESSAGE value="Add Playing with digits" />
     <MESSAGE value="Updated Playing with digits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Playing with digits" />
+    <MESSAGE value="Add: The Vowel Code.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: The Vowel Code.js" />
   </component>
   <component name="WindowStateProjectService">
     <state width="401" height="442" key="Diff.GoToChangePopup" timestamp="1596253637618">
@@ -244,14 +244,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599936679364" />
-    <state x="935" y="214" key="Vcs.Push.Dialog.v2" timestamp="1601271030831">
+    <state x="747" y="236" key="VCS.ChangeListViewerDialog" timestamp="1602567701942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="935" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601271030831" />
-    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600584623047">
+    <state x="747" y="236" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602567701942" />
+    <state x="935" y="214" key="Vcs.Push.Dialog.v2" timestamp="1602567520419">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600584623047" />
+    <state x="935" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602567520419" />
+    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602567711372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602567711372" />
     <state x="1111" y="418" key="git4idea.pull.GitPullDialog" timestamp="1596255876767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
