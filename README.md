@@ -14,6 +14,7 @@
 ## Only Duplicates
 ## Playing with digits
 ## Sum of Digits / Digital Root
+## Take a Ten Minute Walk
 ## The Vowel Code
 ## Tribonacci Sequence
 ## Unique In Order
