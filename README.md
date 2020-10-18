@@ -2,7 +2,6 @@
 
 
 # Codewars-solutions-of-6th-level
-## Solutions:
 
 ## Are we alternate?
 ## Array diff
