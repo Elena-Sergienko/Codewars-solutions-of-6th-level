@@ -9,6 +9,7 @@
 ## Does my number look big in this?
 ## Find The Duplicated
 ## Find the odd int
+## Find the unique number
 ## Multiples of 3 and 5 redux
 ## Only Duplicates
 ## Playing with digits

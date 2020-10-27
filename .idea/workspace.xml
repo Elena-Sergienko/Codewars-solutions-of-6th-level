@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="Update README.md">
-      <change afterPath="$PROJECT_DIR$/Split Strings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="add Split Strings">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Split-Strings" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -90,6 +89,7 @@
       <workItem from="1600582480415" duration="713000" />
       <workItem from="1601270809081" duration="1144000" />
       <workItem from="1602567136924" duration="323000" />
+      <workItem from="1603083199179" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="Array.diff">
       <created>1596253385482</created>
@@ -182,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601271022982</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add Split Strings">
+      <created>1602911806766</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602911806766</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +220,8 @@
     <MESSAGE value="Add Sum of Digits / Digital Root" />
     <MESSAGE value="Add Playing with digits" />
     <MESSAGE value="Updated Playing with digits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Playing with digits" />
+    <MESSAGE value="add Split Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Split Strings" />
   </component>
   <component name="WindowStateProjectService">
     <state width="401" height="442" key="Diff.GoToChangePopup" timestamp="1596253637618">
@@ -248,14 +256,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="747" y="236" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602638777521" />
-    <state x="935" y="214" key="Vcs.Push.Dialog.v2" timestamp="1601271030831">
+    <state x="935" y="214" key="Vcs.Push.Dialog.v2" timestamp="1602911835677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="935" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601271030831" />
-    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602638813892">
+    <state x="935" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602911835677" />
+    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602911943641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602638813892" />
+    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602911943641" />
     <state x="1111" y="418" key="git4idea.pull.GitPullDialog" timestamp="1596255876767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
