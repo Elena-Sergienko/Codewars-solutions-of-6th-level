@@ -14,7 +14,7 @@
 ## Only Duplicates
 ## Playing with digits
 ## Split Strings
-## Sum of Digits / Digital Root
+## Sum of Digits/Digital Root
 ## Take a Ten Minute Walk
 ## The Vowel Code
 ## Tribonacci Sequence
