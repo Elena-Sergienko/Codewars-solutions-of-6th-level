@@ -1,4 +1,4 @@
-//6 kyu
+// 6 kyu
 // The Vowel Code
 // Step 1: Create a function called encode() to replace all the lowercase vowels in a given string with numbers according to the following pattern:
 // a -> 1
@@ -10,6 +10,21 @@
 // Step 2: Now create a function called decode() to turn the numbers back into vowels according to the same pattern shown above.
 // For example, decode("h3 th2r2") would return "hi there".
 // For the sake of simplicity, you can assume that any numbers passed into the function will correspond to vowels.
+// -------------------------
+
+function encode(string) {
+    let letter = 'aeiou';
+    return string.replace(/./g, el => letter.includes(el) ? letter.indexOf(el) + 1: el);
+}
+
+function decode(string) {
+    let dig = '1234';
+    let letter = 'aeiou';
+    return string.replace(/./g, el => dig.includes(el) ? letter[el-1] : el);
+}
+
+// -------------------------
+
 
 function encode(string) {
     let str = '';
