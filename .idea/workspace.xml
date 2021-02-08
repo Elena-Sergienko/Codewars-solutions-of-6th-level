@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="add Find the unique number">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cbfdaa68-a780-4888-936f-c144fa15de0f" name="Default Changelist" comment="add Find the unique number" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Split-Strings" />
+        <entry key="$PROJECT_DIR$" value="The-Vowel-Code-Updt" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,6 +57,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -225,26 +225,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add Split Strings" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="401" height="442" key="Diff.GoToChangePopup" timestamp="1596253637618">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="401" height="442" key="Diff.GoToChangePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1596253637618" />
-    <state x="995" y="313" width="786" height="580" key="DiffContextDialog" timestamp="1596253699670">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="995" y="313" width="786" height="580" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596253699670" />
-    <state x="1123" y="236" key="FileChooserDialogImpl" timestamp="1596260396759">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1123" y="236" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596260396759" />
-    <state x="312" y="466" key="Github.ShareDialog" timestamp="1596251968590">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="312" y="466" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596251968590" />
-    <state x="287" y="273" key="Github.UntrackedFilesDialog" timestamp="1596251999742">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="287" y="273" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596251999742" />
     <state x="184" y="86" key="MergeDialog" timestamp="1602638856395">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -257,17 +237,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="747" y="236" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602638777521" />
-    <state x="935" y="214" key="Vcs.Push.Dialog.v2" timestamp="1602911835677">
+    <state x="935" y="214" key="Vcs.Push.Dialog.v2" timestamp="1608154088081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="935" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608154088081" />
     <state x="935" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602911835677" />
-    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602911943641">
+    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608154196197">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608154196197" />
     <state x="1179" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602911943641" />
-    <state x="1111" y="418" key="git4idea.pull.GitPullDialog" timestamp="1596255876767">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1111" y="418" key="git4idea.pull.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596255876767" />
   </component>
 </project>
