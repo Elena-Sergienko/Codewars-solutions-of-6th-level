@@ -5,6 +5,7 @@
 
 ## Are we alternate?
 ## Array diff
+## Count letters in string
 ## Counting Duplicates
 ## Does my number look big in this?
 ## Find The Duplicated
